@@ -13,6 +13,6 @@ Um aplicativo simples para gerenciar uma lista de amigos e realizar sorteios par
 ---
 
 ## 💻 Como Testar
-Acesse o projeto diretamente no navegador: [Sorteador de Amigo Secreto](https://vithorcamara.github.io/sorteador-do-amigo-secreto/)
+Acesse o projeto diretamente no navegador: [Sorteador de Amigo Secreto](file:///C:/Users/rcads/Downloads/jogo-do-amigo-secreto-main/index.html)
 
 ---
